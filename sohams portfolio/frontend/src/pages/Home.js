@@ -48,7 +48,7 @@ export default function Home() {
       title: "Portfolio Website",
       description:
         "Designed and developed a responsive personal website to showcase skills and projects.",
-      link: "https://github.com/yourusername/portfolio-website",
+      link: "https://github.com/Sohamghosh98/Portfolio",
     },
     {
       title: "E-Commerce Website",
